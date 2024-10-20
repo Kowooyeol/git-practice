@@ -1,1 +1,1 @@
-# Git practive
+# Git practice kowooyeol
